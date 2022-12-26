@@ -1,0 +1,15 @@
+/Users/mihailchertov/Desktop/finnal_project/Task/bin/Debug/net6.0/Task
+/Users/mihailchertov/Desktop/finnal_project/Task/bin/Debug/net6.0/Task.deps.json
+/Users/mihailchertov/Desktop/finnal_project/Task/bin/Debug/net6.0/Task.runtimeconfig.json
+/Users/mihailchertov/Desktop/finnal_project/Task/bin/Debug/net6.0/Task.dll
+/Users/mihailchertov/Desktop/finnal_project/Task/bin/Debug/net6.0/Task.pdb
+/Users/mihailchertov/Desktop/finnal_project/Task/obj/Debug/net6.0/Task.csproj.AssemblyReference.cache
+/Users/mihailchertov/Desktop/finnal_project/Task/obj/Debug/net6.0/Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mihailchertov/Desktop/finnal_project/Task/obj/Debug/net6.0/Task.AssemblyInfoInputs.cache
+/Users/mihailchertov/Desktop/finnal_project/Task/obj/Debug/net6.0/Task.AssemblyInfo.cs
+/Users/mihailchertov/Desktop/finnal_project/Task/obj/Debug/net6.0/Task.csproj.CoreCompileInputs.cache
+/Users/mihailchertov/Desktop/finnal_project/Task/obj/Debug/net6.0/Task.dll
+/Users/mihailchertov/Desktop/finnal_project/Task/obj/Debug/net6.0/refint/Task.dll
+/Users/mihailchertov/Desktop/finnal_project/Task/obj/Debug/net6.0/Task.pdb
+/Users/mihailchertov/Desktop/finnal_project/Task/obj/Debug/net6.0/Task.genruntimeconfig.cache
+/Users/mihailchertov/Desktop/finnal_project/Task/obj/Debug/net6.0/ref/Task.dll
